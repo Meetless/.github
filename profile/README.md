@@ -6,6 +6,7 @@ Meetless is a change-governance layer for product delivery. When scope changes h
 
 ### Get involved
 
+- **[Read the blog](https://blog.meetless.ai)** | why we are building this, and what we are learning along the way
 - **[Join the community on Slack](https://join.slack.com/t/meetless/shared_invite/zt-3qofaf1di-2hRqBAtnyrTWAos0MQ5dzQ)** | ask questions, share workflows, see the product live
 - **[Submit feedback](https://github.com/Meetless/feedback/issues/new/choose)** | bugs, ideas, and feature requests
 - **[meetless.ai](https://meetless.ai)** | learn more
